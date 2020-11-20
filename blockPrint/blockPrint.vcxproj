@@ -13,6 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{17518714-5356-4BAA-835E-D2B41183C6AE}</ProjectGuid>
     <RootNamespace>blockPrint</RootNamespace>
+    <ProjectName>blockPrint</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
